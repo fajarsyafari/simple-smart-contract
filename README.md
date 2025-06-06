@@ -1,4 +1,4 @@
----
+
 
 ````markdown
 # 🧠 Simple Smart Contract

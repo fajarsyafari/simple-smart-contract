@@ -1,5 +1,3 @@
-README kamu sudah **bagus dan padat**, tinggal diberi sedikit **penyempurnaan format dan keterangan** supaya makin profesional dan mudah dipahami developer lain. Berikut versi yang sudah saya perbaiki dan lengkapi agar lebih lengkap, rapi, dan bisa langsung dipakai:
-
 ---
 
 ````markdown
@@ -98,20 +96,9 @@ contract SimpleStorage {
 
 ---
 
-7. ##Save and exit `nano`:**
-
-* Press `CTRL + O` → then `Enter` to save the file
-* Press `CTRL + X` to exit the editor
-
 ---
 
-8. Commit and push to GitHub:**
 
-```bash
-git add README.md
-git commit -m "Update README with full setup instructions"
-git push origin main
-```
 
 ---
 

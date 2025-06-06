@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# Simple Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project contains a basic Solidity smart contract and demonstrates how to develop, test, and deploy using Hardhat.
 
-Try running some of the following tasks:
+## 🔧 Technologies
+- Solidity (Smart contract language)
+- Hardhat (Development environment)
+- Ethers.js (Interaction)
+- Mocha/Chai (Testing)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## 📦 Installation
+
+```bash
+git clone https://github.com/fajarsyafari/simple-smart-contract.git
+cd simple-smart-contract
+npm install
